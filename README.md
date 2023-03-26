@@ -25,7 +25,7 @@
   </pre>
   <p>To stop the detection, press the <code>q</code> key.</p>
   <h2>Results</h2>
-  <p>The code will output a video stream that will display the detected objects along with the corresponding bounding boxes, labels, and orientation angles. Additionally, the data will be saved in a .mat file, containing the object coordinates, distance, and orientation data.</p>
+  <p>The code will output a video stream that will display the detected objects along with the corresponding bounding boxes, labels, and orientation angles. Additionally, the data will be saved in a .mat file, containing the object coordinates, distance, and orientation data at time relative to code initialization.</p>
   <h2>Acknowledgements</h2>
   <p>This code was implemented using the YOLOv7 repository by Ultralytics LLC.</p>
   <h2>License</h2>
